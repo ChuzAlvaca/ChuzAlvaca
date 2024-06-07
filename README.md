@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Luz M. Álvarez
 #### - QA Tester -
-![- Front-end Developer -](https://imagizer.imageshack.com/img924/6010/0oxNGB.png)
 
 I'm a QA tester with knowledge in frontend development and experience in social psychology and audiovisual studies and production...
 A powerful formula huh! ;) 
