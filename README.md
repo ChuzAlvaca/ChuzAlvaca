@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is Luz M. Álvarez
-#### - Front-end Developer -
+#### - QA Tester -
 ![- Front-end Developer -](https://imagizer.imageshack.com/img924/6010/0oxNGB.png)
 
-I'm a front-end developer with experience in social psychology and audiovisual studies and production...
+I'm a QA tester with knowledge in frontend development and experience in social psychology and audiovisual studies and production...
 A powerful formula huh! ;) 
 
-Skills:  / REACT / JS / HTML / CSS/ NODE JS 
+Skills:  JIRA/POSTMAN/SQL/API TESTING/ REACT / JAVASCRIPT / HTML / CSS/ NODE JS 
 
-- 🌱 I’m currently learning REACT 
+- 🌱 I’m currently learning PHYTON
 - 📫 How to reach me: luz.alvaca@gmail.com 
 - ⚡ Fun fact: I 💕 Tech  🍥Naruto  🦉The Legend of Zelda and NonFiction films :)  
 
